@@ -1,0 +1,21 @@
+body {
+    background-image: url(imagem4.jpg);
+    background-position: center;    
+}
+
+.listagem {
+    background-image: url(imagem3.jpg);
+    background-position: center;
+    
+}
+
+.formulario {
+    background-image: url(imagem6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+td {
+    color: azure;
+    font-size: larger;
+}
